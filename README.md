@@ -1,6 +1,8 @@
 # vxhl 👾 here !
-| I am a software developer currently pursuing CS in college.|
+- I am a software developer currently pursuing CS  in college.
 
-| I write Blogs  ⌨ @hashnode and @Medium | 
+- I am currently learning AI and ML and applying my knowledge in some doamin problems.
 
-| An Artist ✍ | instagram.com/_artsynthya_| 
+- I am a writer ⌨ @hashnode and @Medium | 
+
+- An Artist ✍ | instagram.com/_artsynthya_| 
