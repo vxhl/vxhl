@@ -5,4 +5,4 @@
 
 - ⌨ I am a writer @hashnode and @Medium | 
 
-- ✍ An Artist | instagram.com/_artsynthya_| 
+- ✍ An Artist | [_artsynthya_](https://instagram.com/_artsynthya_) 
