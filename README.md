@@ -3,7 +3,7 @@
 
 - 🤖 I am currently learning AI and ML and applying my knowledge in some doamin problems.
 
-- ⌨ I am a writer @hashnode and @Medium | 
+- ⌨ I am a writer <a href="https://hashnode.com/@vxhlogs" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a> 
 
 - ✍ An Artist | [_artsynthya_](https://instagram.com/_artsynthya_) 
 
