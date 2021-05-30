@@ -4,9 +4,6 @@
 <p>🤖 I am currently learning AI and ML and applying my knowledge in some doamin problems. </p>
 <p> ⌨ I own a technical blog <a href="https://hashnode.com/@vxhlogs" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a> </p>
 
-<p> ✍ An Artist | [_artsynthya_](https://instagram.com/artsynthya) </p>
-
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
