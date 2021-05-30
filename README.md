@@ -42,8 +42,8 @@
 
 
 <h3> I do Manga <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Artworks!</h3>
-<p><img width="200" src="{{img1}}" /> <img width="200" src="{{img2}}" /> <img width="200" src="{{img3}}" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/artsynthya/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @artsynthya!</a><br/>Currently, the weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.</p>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/artsynthya/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @artsynthya!</a><br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vxhl&show_icons=true&theme=radical)  
 <h3> 🙃 You can find me here. </h3> 
@@ -61,4 +61,4 @@
 ### 🧰 Toolbox
 ![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)![JS](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)![C#](https://img.shields.io/badge/-C%20Sharp-white?&style=for-the-badge&logo=c%20sharp&logoColor=239120)![Java](https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white)![Node.js](https://img.shields.io/badge/-Node.js-black?&style=for-the-badge&logo=node.js&logoColor=339933)![Firebase](https://img.shields.io/badge/-Firebase-4c8bf5?&style=for-the-badge&&logo=firebase&logoColor=ffca28)![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)![Unity](https://img.shields.io/badge/-Unity-000000?&style=for-the-badge&logo=unity&logoColor=white)![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?&style=for-the-badge&logo=adobe%20photoshop&logoColor=31a8ff)
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{refresh_date}}<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
