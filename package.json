@@ -1,0 +1,27 @@
+{
+  "name": "vxhlreadme",
+  "version": "1.0.0",
+  "description": "To make some dynamic github actions for my readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "vxh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vxhl/vxhl.git"
+  },
+  "keywords": [
+    "githubactions",
+    "workflows",
+    "npm"
+  ],
+  "author": "vxhl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vxhl/vxhl/issues"
+  },
+  "homepage": "https://github.com/vxhl/vxhl#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
