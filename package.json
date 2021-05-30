@@ -1,27 +1,32 @@
 {
-  "name": "vxhlreadme",
+  "name": "thmsgbrt",
   "version": "1.0.0",
-  "description": "To make some dynamic github actions for my readme file",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
   "scripts": {
-    "test": "vxh"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vxhl/vxhl.git"
+    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
   },
   "keywords": [
-    "githubactions",
-    "workflows",
-    "npm"
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
   ],
-  "author": "vxhl",
-  "license": "MIT",
+  "author": "Thomas Guibert",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vxhl/vxhl/issues"
+    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
   },
-  "homepage": "https://github.com/vxhl/vxhl#readme",
+  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0"
   }
 }
