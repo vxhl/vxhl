@@ -14,7 +14,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Europe/Stockholm',
+    timeZone: 'Indian/Maldives',
   }),
 };
 
@@ -30,18 +30,18 @@ async function setWeatherInformation() {
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Europe/Stockholm',
+        timeZone: 'Indian/Maldives',
       });
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'Europe/Stockholm',
+        timeZone: 'Indian/Maldives',
       });
     });
 }
 
 async function setInstagramPosts() {
-  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('artsynthya', 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img3 = instagramImages[2];
