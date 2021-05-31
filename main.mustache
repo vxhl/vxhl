@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> vxhl 👾 here !</h1>
 
 
-<p>Welcome to my page! </br> I'm Bishal Mohari, student developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai ↔ Assam, India</b>
+<p></br> More originally my name is Bishal Mohari, student developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai ↔ Assam, India</b>
 <p>🏫🎓 I am a software developer currently pursuing CS  in college.</p>
-<p>🤖 I am currently learning AI and ML and applying my knowledge in some doamin problems. </p>
+<p>🤖 I am currently learning AI and ML and applying my knowledge in various doamin problems. </p>
 <p> ⌨ I own a technical blog <a href="https://hashnode.com/@vxhlogs" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a> </p>
 <p>
 <h3> 🧰 Toolbox </h3>
