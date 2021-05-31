@@ -17,10 +17,10 @@ let DATA = {
     timeZone: 'Indian/Maldives',
   }),
 };
-
+// ${process.env.OPEN_WEATHER_MAP_KEY}&units=metric
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `http://api.openweathermap.org/data/2.5/weather?q=Chennai,in&APPID=505f36e3a7de34f9b42c8231e0d6d5f3`
   )
     .then(r => r.json())
     .then(r => {
