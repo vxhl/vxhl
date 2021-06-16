@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> vxhl 👾 here !</h1>
+<h1> vxhl 👾 here !</h1>
 
 <p></br> Officially known as Bishal Mohari, student developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu ↔ Dibrugarh, Assam, India</b>
 <p>🎓 Currently pursuing CS  in college.</p>
-<p>🤖 Learning Data Science and applying my knowledge in various doamin problems. </p>
+<p>🤖 Learning Data Science and applying my knowledge in various domain problems. </p>
 <p> 📝 I own a technical blog <a href="https://hashnode.com/@vxhlogs" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a> </p>
 <p>
 <h2> 🧰 Toolbox </h2>
@@ -27,9 +27,13 @@
 <h2>🚨 Check out my latest Articles! </h2>
 	
 <!-- BLOG-POST-LIST:START -->
+
 - [About Firebase & When & Where to use it](https://vxhlogs.hashnode.dev/about-firebase-and-when-and-where-to-use-it-ckp6fx03v095zmds15n0b0ocf)
+
 - [It's my 339th day on Hashnode!](https://vxhlogs.hashnode.dev/its-my-339th-day-on-hashnode-ckp06qr0u0fhncrs1foqifdi6)
+
 - [How to Run Your React App?](https://vxhlogs.hashnode.dev/how-to-run-your-react-app-ckfihjgba01yzots15zre1l9p)
+
 - [Building an Amazon Product Price Deflation tracker using Beautiful Soup 4 and Python](https://vxhlogs.hashnode.dev/building-an-amazon-product-price-deflation-tracker-using-beautiful-soup-4-and-python-ckdt3heh200hkaps12soxcooi)
 - [About the *most important* tag above Graph Theory?!](https://vxhlogs.hashnode.dev/about-the-most-important-tag-above-graph-theory-ckdbubgqz02dh66s185u1gufr)
 <!-- BLOG-POST-LIST:END -->
