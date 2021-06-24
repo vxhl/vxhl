@@ -3,7 +3,7 @@
 <p></br> Officially known as Bishal Mohari, student developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu ↔ Dibrugarh, Assam, India</b>
 <p>🎓 Currently pursuing CS  in college.</p>
 <p>🤖 Learning Data Science and applying my knowledge in various domain problems. </p>
-<p> 📝 I own a technical blog <a href="https://hashnode.com/@vxhlogs" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a> </p>
+<p> 📝 I own a technical blog <a href="https://vxhlogs.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a> </p>
 <p>
 <h2> 🧰 Toolbox </h2>
 
@@ -27,11 +27,15 @@
 <h2>🚨 Check out my latest Articles! </h2>
 	
 <!-- BLOG-POST-LIST:START -->
-- [Coding & Coping : Doing What Works for Yourself](https://vxhlogs.hashnode.dev/coding-and-coping-doing-what-works-for-yourself-ckq0k6o0q05q94vs1du40e5ka)
+
 - [About Firebase & When & Where to use it](https://vxhlogs.hashnode.dev/about-firebase-and-when-and-where-to-use-it-ckp6fx03v095zmds15n0b0ocf)
+
 - [It's my 339th day on Hashnode!](https://vxhlogs.hashnode.dev/its-my-339th-day-on-hashnode-ckp06qr0u0fhncrs1foqifdi6)
+
 - [How to Run Your React App?](https://vxhlogs.hashnode.dev/how-to-run-your-react-app-ckfihjgba01yzots15zre1l9p)
+
 - [Building an Amazon Product Price Deflation tracker using Beautiful Soup 4 and Python](https://vxhlogs.hashnode.dev/building-an-amazon-product-price-deflation-tracker-using-beautiful-soup-4-and-python-ckdt3heh200hkaps12soxcooi)
+- [About the *most important* tag above Graph Theory?!](https://vxhlogs.hashnode.dev/about-the-most-important-tag-above-graph-theory-ckdbubgqz02dh66s185u1gufr)
 <!-- BLOG-POST-LIST:END -->
 <h2>✏ I do Manga Artworks.</h2>
 <p><img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C186790495_4104108659650551_6300608710679699091_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DVwMAXtP0ur8AX8GQC8j%26edm%3DAP_V10EBAAAA%26ccb%3D7-4%26oh%3D4a8cd5208b3d74da2712adb379ef548f%26oe%3D60BAD895%26_nc_sid%3D4f375e" /> <img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C185126008_2899538813594785_6420590093158274864_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3Do8-xupocPyoAX_Kv1Vu%26edm%3DAP_V10EBAAAA%26ccb%3D7-4%26oh%3Da1beba6300df333838949524e6a3ce57%26oe%3D60BAB095%26_nc_sid%3D4f375e" /> <img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C181898794_471939574111423_2951291280507501579_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D107%26_nc_ohc%3DP9-xkUOxEt0AX8Ts3n7%26edm%3DAP_V10EBAAAA%26ccb%3D7-4%26oh%3Db8eb79d9f044bc053c9f6901853c2db3%26oe%3D60BAFFC8%26_nc_sid%3D4f375e" /></p>
