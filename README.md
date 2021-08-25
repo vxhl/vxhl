@@ -27,14 +27,18 @@
 <h2>🚨 Check out my latest Articles! </h2>
 	
 <!-- BLOG-POST-LIST:START -->
-- [Coding & Coping : Doing What Works for Yourself](https://vxhlogs.hashnode.dev/coding-and-coping-doing-what-works-for-yourself-ckq0k6o0q05q94vs1du40e5ka)
+
 - [About Firebase & When & Where to use it](https://vxhlogs.hashnode.dev/about-firebase-and-when-and-where-to-use-it-ckp6fx03v095zmds15n0b0ocf)
+
 - [It's my 339th day on Hashnode!](https://vxhlogs.hashnode.dev/its-my-339th-day-on-hashnode-ckp06qr0u0fhncrs1foqifdi6)
+
 - [How to Run Your React App?](https://vxhlogs.hashnode.dev/how-to-run-your-react-app-ckfihjgba01yzots15zre1l9p)
+
 - [Building an Amazon Product Price Deflation tracker using Beautiful Soup 4 and Python](https://vxhlogs.hashnode.dev/building-an-amazon-product-price-deflation-tracker-using-beautiful-soup-4-and-python-ckdt3heh200hkaps12soxcooi)
+- [About the *most important* tag above Graph Theory?!](https://vxhlogs.hashnode.dev/about-the-most-important-tag-above-graph-theory-ckdbubgqz02dh66s185u1gufr)
 <!-- BLOG-POST-LIST:END -->
 <h2>✏ I do Manga Artworks.</h2>
-<p><img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C213260473_346149163848264_5879151940357917149_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3DIzOHNT5alkQAX-mO8yi%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D472364efd0bbf68c6f1d52666d7d8724%26oe%3D60FFA109%26_nc_sid%3D83d603" /> <img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C207552598_1941191779399897_7826933093748646658_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DF2LvHuRfgVYAX_5i4kM%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D468a0cd21a52e720aa12c74a1fcaa159%26oe%3D6101345E%26_nc_sid%3D83d603" /> <img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C186790495_4104108659650551_6300608710679699091_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DGuz6-tltlEIAX8ckunE%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D1de39f382eee25e8fc640cf91e854cdc%26oe%3D61000F55%26_nc_sid%3D83d603" /></p>
+<p><img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C236065262_949940182217883_9146872039348376384_n.jpg%3F_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DPpSP0v5wCSMAX8qQi4E%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D2125b580f33fc2f4bd36999090ca3b7a%26oe%3D612CEA50%26_nc_sid%3D83d603" /> <img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.fiev22-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C207552598_1941191779399897_7826933093748646658_n.jpg%3F_nc_ht%3Dinstagram.fiev22-2.fna.fbcdn.net%26_nc_cat%3D101%26_nc_ohc%3DF2LvHuRfgVYAX_5i4kM%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D468a0cd21a52e720aa12c74a1fcaa159%26oe%3D6101345E%26_nc_sid%3D83d603" /> 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/artsynthya/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @artsynthya!</a><br/>
 
 <details><summary>Trophies</summary>
