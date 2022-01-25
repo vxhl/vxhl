@@ -27,15 +27,16 @@
 <h2>🚨 Check out my latest Articles! </h2>
 	
 <!-- BLOG-POST-LIST:START -->
-- [Coding &amp; Coping : Doing What Works for Yourself](https://vxhlogs.hashnode.dev/coding-and-coping-doing-what-works-for-yourself-ckq0k6o0q05q94vs1du40e5ka)
-- [About Firebase &amp; When &amp; Where to use it](https://vxhlogs.hashnode.dev/about-firebase-and-when-and-where-to-use-it-ckp6fx03v095zmds15n0b0ocf)
-- [It&#39;s my 339th day on Hashnode!](https://vxhlogs.hashnode.dev/its-my-339th-day-on-hashnode-ckp06qr0u0fhncrs1foqifdi6)
+
+- [About Firebase & When & Where to use it](https://vxhlogs.hashnode.dev/about-firebase-and-when-and-where-to-use-it-ckp6fx03v095zmds15n0b0ocf)
+
+- [It's my 339th day on Hashnode!](https://vxhlogs.hashnode.dev/its-my-339th-day-on-hashnode-ckp06qr0u0fhncrs1foqifdi6)
+
 - [How to Run Your React App?](https://vxhlogs.hashnode.dev/how-to-run-your-react-app-ckfihjgba01yzots15zre1l9p)
+
 - [Building an Amazon Product Price Deflation tracker using Beautiful Soup 4 and Python](https://vxhlogs.hashnode.dev/building-an-amazon-product-price-deflation-tracker-using-beautiful-soup-4-and-python-ckdt3heh200hkaps12soxcooi)
+- [About the *most important* tag above Graph Theory?!](https://vxhlogs.hashnode.dev/about-the-most-important-tag-above-graph-theory-ckdbubgqz02dh66s185u1gufr)
 <!-- BLOG-POST-LIST:END -->
-<h2>✏ I do Manga Artworks.</h2>
-<p><img width="200" src = "https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cscontent-waw1-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C240861099_1525289877814423_2905752966341643187_n.jpg%3F_nc_ht%3Dscontent-waw1-1.cdninstagram.com%26_nc_cat%3D107%26_nc_ohc%3DZnlqoE-FxqUAX_rjAao%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3Dc7abe26d8e793411684474dfa449c38d%26oe%3D6135FA73%26_nc_sid%3D83d603"/><img width="200" src="https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C236065262_949940182217883_9146872039348376384_n.jpg%3F_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D103%26_nc_ohc%3DUN1fuFWjZ6QAX_YmgHZ%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D43684ae4efbb0c37f0ac2db5e41baba6%26oe%3D6140B0D0%26_nc_sid%3D83d603" /><img width="200" src = "https://www.picuki.com/hosted-by-instagram/url=https%3A%7C%7C%7C%7Cscontent-waw1-1.cdninstagram.com%7C%7Cv%7C%7Ct51.2885-15%7C%7Ce35%7C%7C213260473_346149163848264_5879151940357917149_n.jpg%3F_nc_ht%3Dscontent-waw1-1.cdninstagram.com%26_nc_cat%3D100%26_nc_ohc%3DLwg5p5-y6mAAX-HQzsh%26edm%3DAABBvjUBAAAA%26ccb%3D7-4%26oh%3D05759ddd938b8952c7a7793db2822735%26oe%3D613505C9%26_nc_sid%3D83d603"/>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/artsynthya/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @artsynthya!</a><br/>
 
 <details><summary>Trophies</summary>
 <p align="left">
