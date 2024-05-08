@@ -27,11 +27,11 @@
 <h2>🚨 Check out my latest Articles! </h2>
 	
 <!-- BLOG-POST-LIST:START -->
-- [Coding &amp; Coping : Doing What Works for Yourself](https://vxhlogs.hashnode.dev/coding-and-coping-doing-what-works-for-yourself-ckq0k6o0q05q94vs1du40e5ka)
-- [About Firebase &amp; When &amp; Where to use it](https://vxhlogs.hashnode.dev/about-firebase-and-when-and-where-to-use-it-ckp6fx03v095zmds15n0b0ocf)
-- [It&#39;s my 339th day on Hashnode!](https://vxhlogs.hashnode.dev/its-my-339th-day-on-hashnode-ckp06qr0u0fhncrs1foqifdi6)
-- [How to Run Your React App?](https://vxhlogs.hashnode.dev/how-to-run-your-react-app-ckfihjgba01yzots15zre1l9p)
-- [Building an Amazon Product Price Deflation tracker using Beautiful Soup 4 and Python](https://vxhlogs.hashnode.dev/building-an-amazon-product-price-deflation-tracker-using-beautiful-soup-4-and-python-ckdt3heh200hkaps12soxcooi)
+- [Coding &amp; Coping : Doing What Works for Yourself](https://vxhlogs.hashnode.dev/coding-and-coping-doing-what-works-for-yourself)
+- [About Firebase &amp; When &amp; Where to use it](https://vxhlogs.hashnode.dev/about-firebase-and-when-and-where-to-use-it)
+- [It&#39;s my 339th day on Hashnode!](https://vxhlogs.hashnode.dev/its-my-339th-day-on-hashnode)
+- [How to Run Your React App?](https://vxhlogs.hashnode.dev/how-to-run-your-react-app)
+- [Building an Amazon Product Price Deflation tracker using Beautiful Soup 4 and Python](https://vxhlogs.hashnode.dev/building-an-amazon-product-price-deflation-tracker-using-beautiful-soup-4-and-python)
 <!-- BLOG-POST-LIST:END -->
 
 <details><summary>Trophies</summary>
